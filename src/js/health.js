@@ -1,4 +1,3 @@
-// src/js/health.js
 function getHealthStatus(character) {
     if (character.health > 50) {
         return 'healthy';

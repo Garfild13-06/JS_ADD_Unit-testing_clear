@@ -1,4 +1,3 @@
-// src/js/__tests__/health.test.js
 const { getHealthStatus } = require('../health');
 
 test('should return healthy when health is more than 50', () => {
